@@ -4,7 +4,7 @@ public class PrintYourAgeFromInput {
         //Scanner
 Scanner input = new Scanner(System.in);
 // enter your name
-System.out.printf("Enter your name: ");
+System.out.printf("Enter your age: ");
 // output
 int age = input.nextInt();
 System.out.printf("Your age is: %d %n ",age);
